@@ -1,0 +1,35 @@
+.breadcrumb a {
+    color: black;
+}
+
+.box-sidebar{
+    margin-top: 64px ;
+}
+.box-sidebar a{
+    float: left;
+    color: black;
+    font-size: large;
+    padding-bottom: 12px;
+}
+.breadcrumb a:hover,
+.box-sidebar a:hover{
+    color: #5ac56c;
+}
+
+.card img{
+    height: 100%;
+    width: 100%;
+  }
+  
+  .card-title,
+  .card-text{
+    color: #f0f0f0;
+  }
+  .card-img-overlay{
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+  }
+  .bottom-left{
+    position: relative;
+  }

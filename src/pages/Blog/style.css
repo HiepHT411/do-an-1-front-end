@@ -1,0 +1,31 @@
+.card a{
+    text-decoration: none;
+    letter-spacing: 2px;
+    color: black;
+    font-weight: 500;
+}
+.card a:hover{
+    color: rgb(93, 185, 0);
+    text-decoration: underline;
+}
+
+
+ul li {
+    list-style: none;
+    padding-top: 3px;
+}
+
+.card hr{
+    border: 3px solid black;
+}
+
+.col-lg-9 h2{
+    font-weight: bolder;
+    float: left;
+}
+
+.blog_list_element
+{
+    margin-bottom: 0.7rem;
+
+}
